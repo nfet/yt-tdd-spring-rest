@@ -15,7 +15,9 @@ In this tutorial, we walk through the process of building a clean, test-driven R
 - 🚀 RESTful endpoints built with Spring Web  
 - 📄 Example tests written using `MockMvc`
 
----
+### 📦 Class Diagram
+
+![Class-Diagram-1.png](Class-Diagram-1.png)
 
 ### 📁 Project Structure
 
